@@ -14,4 +14,3 @@ C codes </br>
 7. Stack
 8. Queue
 9. Binary Tree
-10. Binary Search Tree
