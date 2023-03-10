@@ -14,3 +14,9 @@ C codes </br>
 7. Stack - https://github.com/arkapg211002/Data-Structures-and-Algorithms/tree/main/Stack
 8. Queue - https://github.com/arkapg211002/Data-Structures-and-Algorithms/tree/main/Queue
 9. Binary Tree - https://github.com/arkapg211002/Data-Structures-and-Algorithms/tree/main/Binary%20Tree
+10. Graphs - https://takeuforward.org/category/graph/
+11. Greedy - 
+12. Backtracking - 
+13. Branch and Bound -
+14. DP - https://takeuforward.org/category/dynamic-programming/
+15. String Matching - 
