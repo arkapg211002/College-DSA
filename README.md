@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
-All important topics codes in JAVA
+All important topics codes in Java and C
 
 C codes </br>
 ~ [SEM-3 Data Structures](https://github.com/arkapg211002/PCA2_DSA_3rdSem/tree/main)</br>
@@ -20,3 +20,6 @@ C codes </br>
 13. Branch and Bound -
 14. DP - https://takeuforward.org/category/dynamic-programming/
 15. String Matching - 
+16. Trie -
+17. Segment Tree -
+18. Randomized Algorithms -
