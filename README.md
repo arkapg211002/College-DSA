@@ -19,7 +19,7 @@ C codes </br>
 12. Backtracking - https://github.com/arkapg211002/Data-Structures-and-Algorithms/tree/main/Backtracking
 13. Geometry - https://github.com/arkapg211002/Data-Structures-and-Algorithms/tree/main/Geometry
 14. DP - https://takeuforward.org/category/dynamic-programming/
-15. String Matching - 
+15. String Matching - https://github.com/arkapg211002/Data-Structures-and-Algorithms/tree/main/String%20Matching
 16. Trie -
 17. Segment Tree -
 18. Randomized Algorithms -
