@@ -17,7 +17,7 @@ C codes </br>
 10. Graphs - https://takeuforward.org/category/graph/
 11. Greedy - https://github.com/arkapg211002/Data-Structures-and-Algorithms/tree/main/Greedy
 12. Backtracking - https://github.com/arkapg211002/Data-Structures-and-Algorithms/tree/main/Backtracking
-13. Branch and Bound -
+13. Geometry - https://github.com/arkapg211002/Data-Structures-and-Algorithms/tree/main/Geometry
 14. DP - https://takeuforward.org/category/dynamic-programming/
 15. String Matching - 
 16. Trie -
