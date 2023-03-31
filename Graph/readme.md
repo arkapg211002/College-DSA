@@ -8,3 +8,5 @@
 6. https://takeuforward.org/data-structure/number-of-provinces/
 7. https://takeuforward.org/data-structure/number-of-islands/#:~:text=Explanation%3A,separating%20them%20into%203%20islands.
 8. https://takeuforward.org/data-structure/rotten-oranges/
+9. https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/
+10. https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/
