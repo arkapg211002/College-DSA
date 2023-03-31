@@ -5,4 +5,4 @@
 4. https://takeuforward.org/graph/breadth-first-search-bfs-level-order-traversal/
 5. https://takeuforward.org/data-structure/depth-first-search-dfs/
 6. -_-
-7. 
+7. https://takeuforward.org/data-structure/number-of-provinces/
