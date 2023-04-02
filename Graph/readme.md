@@ -10,3 +10,7 @@
 8. https://takeuforward.org/data-structure/rotten-oranges/
 9. https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/
 10. https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/
+11. https://takeuforward.org/graph/bipartite-graph-bfs-implementation/
+12. https://takeuforward.org/graph/bipartite-graph-dfs-implementation/
+13. https://takeuforward.org/data-structure/detect-cycle-in-a-directed-graph-using-dfs-g-19/
+14. 
