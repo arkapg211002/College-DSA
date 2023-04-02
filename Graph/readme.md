@@ -17,3 +17,4 @@
 15. https://www.softwaretestinghelp.com/dijkstras-algorithm-in-java/
 16. https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/
 17. https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/
+18. https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/
