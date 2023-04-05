@@ -20,3 +20,4 @@
 18. https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/
 19. https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/
 20. https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/
+21. https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
