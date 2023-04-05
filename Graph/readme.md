@@ -15,9 +15,10 @@
 13. https://takeuforward.org/data-structure/detect-cycle-in-a-directed-graph-using-dfs-g-19/
 14. https://takeuforward.org/data-structure/topological-sort-algorithm-dfs-g-21/
 15. https://www.softwaretestinghelp.com/dijkstras-algorithm-in-java/
-16. https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/
-17. https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/
-18. https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/
-19. https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/
-20. https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/
-21. https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+16. https://takeuforward.org/data-structure/dijkstras-algorithm-shortest-distance/
+17. https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/
+18. https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/
+19. https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/
+20. https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/
+21. https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/
+22. https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
