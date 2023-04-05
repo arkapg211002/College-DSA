@@ -22,3 +22,4 @@
 20. https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/
 21. https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/
 22. https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+23. https://www.programiz.com/dsa/ford-fulkerson-algorithm
