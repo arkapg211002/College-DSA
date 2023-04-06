@@ -19,7 +19,9 @@
 17. https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/
 18. https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/
 19. https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/
-20. https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/
-21. https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/
-22. https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
-23. https://www.programiz.com/dsa/ford-fulkerson-algorithm
+20. https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
+21. https://www.geeksforgeeks.org/prims-algorithm-using-priority_queue-stl/
+22. https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/
+23. https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54/
+24. https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+25. https://www.programiz.com/dsa/ford-fulkerson-algorithm
