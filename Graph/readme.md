@@ -14,7 +14,7 @@
 12. https://takeuforward.org/graph/bipartite-graph-dfs-implementation/
 13. https://takeuforward.org/data-structure/detect-cycle-in-a-directed-graph-using-dfs-g-19/
 14. https://takeuforward.org/data-structure/topological-sort-algorithm-dfs-g-21/
-15. https://www.softwaretestinghelp.com/dijkstras-algorithm-in-java/
+15. https://www.geeksforgeeks.org/java-program-for-dijkstras-shortest-path-algorithm-greedy-algo-7/
 16. https://takeuforward.org/data-structure/dijkstras-algorithm-shortest-distance/
 17. https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/
 18. https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/
