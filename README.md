@@ -22,4 +22,4 @@ C codes </br>
 15. String Matching - https://github.com/arkapg211002/Data-Structures-and-Algorithms/tree/main/String%20Matching
 16. Trie - https://takeuforward.org/category/trie/
 17. Segment Tree - https://www.geeksforgeeks.org/segment-tree-data-structure/
-18. Fenwick Tree - https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/
+18. Range Queries - https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-interview-prep/range-queries
